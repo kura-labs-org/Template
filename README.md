@@ -1,5 +1,5 @@
-# Template
-This repo is a template of how you can organize your deployment repo
+<h1 align=center>Template Repo</h1>
+<div align=center>This repo is a template of how you can organize your deployment repo</div>
 
 # Heading 1 (Title of Repo)
 
