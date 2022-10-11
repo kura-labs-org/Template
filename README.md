@@ -1,5 +1,6 @@
 # Template
 This repo is a template of how you can organize your deployment repo
+
 # Heading 1 (Title of Repo)
 
 ## Table of contexts (Organized list)
@@ -17,10 +18,12 @@ This repo is a template of how you can organize your deployment repo
 ## Checklist
 - [x] Create a gitignore file or remove this README.md and Deployment4.pdf instructions from your forked repo before you start your build.
 - [ ] Take a screenshot of the url shortner home page and add the screenshot to your screenshot file.
-## Emojis
-:wink:
-:heart:
-## View images (unorganized list)
 
-- ![image](https://github.com/kura-labs-org/Template/blob/main/Images/26-1.jpeg)
-- ![image2](https://github.com/kura-labs-org/Template/blob/main/Images/Screenshot%20(92).png)
+## Emojis (unorganized list)
+- :wink:
+- :heart:
+
+## View images
+
+![image](https://github.com/kura-labs-org/Template/blob/main/Images/26-1.jpeg)
+![image2](https://github.com/kura-labs-org/Template/blob/main/Images/Screenshot%20(92).png)
