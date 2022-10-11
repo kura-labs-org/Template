@@ -2,12 +2,21 @@
 <div align=center>This repo is a template of how you can organize your deployment repo</div>
 
 # Heading 1 (Title of Repo)
+- Any file with the .md extension will be formatted into a Markdown File
 
 ## Table of contexts (Organized list)
 1. Application folder: [click here](https://github.com/kura-labs-org/Template/tree/main/Application)
 2. Documentation folder: https://github.com/kura-labs-org/Template/tree/main/Documentation
 3. Image folder: [click here](https://github.com/kura-labs-org/Template/tree/main/Images)
 4. Template PDF: [click here](https://github.com/kura-labs-org/Template/blob/main/Templates/Documentation_Temp.pdf)
+
+## Color using diff
+``` diff
+! 1. Application folder: [click here](https://github.com/kura-labs-org/Template/tree/main/Application)
+- 2. Documentation folder: https://github.com/kura-labs-org/Template/tree/main/Documentation
++ 3. Image folder: [click here](https://github.com/kura-labs-org/Template/tree/main/Images)
+@@ 4. Template PDF: [click here](https://github.com/kura-labs-org/Template/blob/main/Templates/Documentation_Temp.pdf) @@
+```
 
 ## CodeBlock
     ```
