@@ -8,7 +8,7 @@
 1. Application folder: [click here](https://github.com/kura-labs-org/Template/tree/main/Application)
 2. Documentation folder: https://github.com/kura-labs-org/Template/tree/main/Documentation
 3. Image folder: [click here](https://github.com/kura-labs-org/Template/tree/main/Images)
-4. Template PDF: [click here](https://github.com/kura-labs-org/Template/blob/main/Templates/Documentation_Temp (1).pdf)
+4. Template PDF: [click here](https://github.com/kura-labs-org/Template/blob/main/Templates/Documentation_Temp%20(1).pdf)
 5. Link to code for this deployment: https://github.com/kura-labs-org/kuralabs_deployment_2
 
 ## Color using diff
