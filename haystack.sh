@@ -29,6 +29,7 @@ then
     echo "#################################" | lolcat -a
     echo "#                               #" | lolcat -a
     echo "#         All Done!!!           #" | lolcat -a
+    echo "#         Good Luck!!           #" | lolcat -a
     echo "#                               #" | lolcat -a
     echo "#################################" | lolcat -a
 else
