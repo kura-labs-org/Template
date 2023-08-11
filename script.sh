@@ -1,8 +1,8 @@
 #!/bin/bash
 
-fileNum = $(find ./branchA -type f)
+fileNum = $(find ./branchA -type f 2> /dev/null)
 
-if [[ $fileNum == 5 ]]
+if [[ $fileNum == 5 2> /dev/null ]]
 then
   echo "Loading Script"
 else
