@@ -1,18 +1,23 @@
-# Title of Documentation
+# Header 1
 
-## Section 1
-Steps taken to set up your pipeline environment 
+## Header 2 
+Text
 ``code block``
 
-## Section 2 
-Steps taken to set up your pipeline environment
-#### Build
-1. steps
-2. steps
+## Header 2 
+Text
+#### Header 4
+1. bullet
+2. bullet
+    ##### Header 5
+    - bullet
+    - bullet
 
-## Section 3 
-Steps taken and screenshots 
+## Header 2 
+Text
+
+## Header 2 
+For more markdown syntax: https://www.markdownguide.org/cheat-sheet/
 
 ![image](https://github.com/kura-labs-org/Template/blob/main/Images/26-1.jpeg)
 
-## Section 4 
