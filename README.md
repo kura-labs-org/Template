@@ -14,9 +14,10 @@ Text
     - bullet
 
 ## Header 2 
-Text
+Text [click here for image](https://github.com/kura-labs-org/Template/blob/main/Images/Screenshot%20(92).png)
 
-## Header 2 
-For more markdown syntax: https://www.markdownguide.org/cheat-sheet/
-
+## System Diagram 
 ![image](https://github.com/kura-labs-org/Template/blob/main/Images/26-1.jpeg)
+
+## Header 2  
+For more markdown syntax: https://www.markdownguide.org/cheat-sheet/
